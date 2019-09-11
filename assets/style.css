@@ -27,7 +27,7 @@ h3 { border-bottom: 0;
     position: relative;
     bottom: 20px;
     padding: 10px;
-    width: 75%;
+    width: 100%;
     line-height: 30px;
     margin-bottom: 0;
     font-weight: 300;
@@ -35,6 +35,10 @@ h3 { border-bottom: 0;
 
 }
 
+img { width: 100%;
+
+
+}
 
 
 
